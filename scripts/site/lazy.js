@@ -1,0 +1,1 @@
+$(document).ready(function() { 	setTimeout(function(){		$('.lazy').removeClass('lazy');	}, 5000);});
